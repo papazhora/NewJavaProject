@@ -1,7 +1,8 @@
 package com.company.cat;
 
 /**
- *
+ * Method catCall input name, color in user
+ * and print out.
  */
 
 public class Main {

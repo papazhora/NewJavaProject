@@ -12,7 +12,7 @@ public class Man {
     public void setAge(int age) {
         this.age = age;
     }
-    
+
     public static String manNameInput() {
          Scanner scanner = new Scanner(System.in);
             System.out.print("Enter name: ");
